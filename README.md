@@ -22,3 +22,7 @@ Please refer to the license in the repo
 ## Website link
 
  https://babatees.github.io/horiseon-website
+
+## Screenshot
+![image](https://github.com/BABATEES/horiseon-website/assets/117184606/e49eb007-d508-484b-9116-1830b0b53647)
+
